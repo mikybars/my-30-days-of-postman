@@ -1,4 +1,4 @@
-## 30 Days of Postman: Coding Challenge for Developers
+## 30 Days of Postman: Coding Challenge for Developers 🔰
 
 <p align="center">
   <a href="https://badgr.com/public/assertions/krNkkP-GTEOenn9i37bL0Q?identity__email=mperezibars@gmail.com">
